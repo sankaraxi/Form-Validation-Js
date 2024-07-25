@@ -8,10 +8,14 @@ Client-side form validation is a crucial part of web development that ensures th
 - User-friendly error messages.
 - Simple and clean code, easy to understand and extend.
 
-### Usage or Demo
-Open the index.html file in your preferred web browser to see the form validation in action.
+### Technology Stack
 
-       open index.html 
+       HTML
+       CSS
+       JavaScript
+
+### Usage And Demo
+Open the index.html file in your preferred web browser to see the form validation in action.
 
 Modify the HTML and JavaScript files as needed to customize the form and validation rules.
 
